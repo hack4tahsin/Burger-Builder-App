@@ -1,6 +1,6 @@
 # Project Demo
 
-https://ahmedinsider.github.io/Burger-Builder-App/
+https://hack4tahsin.github.io/Burger-Builder-App/
 
 # Getting Started with Create React App
 
